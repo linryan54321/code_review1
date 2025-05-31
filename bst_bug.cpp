@@ -12,7 +12,7 @@ private:
 	{
 		tree_node* left;
 		tree_node* right;
-		int data
+		int data;
 	};
 	tree_node* root;
 public:
